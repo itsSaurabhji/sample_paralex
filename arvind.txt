@@ -1,0 +1,7 @@
+367
+
+Try the below command-
+
+--legacy-peer-deps This option is used when it encounter compatibility issues with peer dependencies in the project. Peer dependencies are a way for a package to specify that it relies on another package but doesn't want to include it as a direct dependency. This allows multiple packages to depend on a common package without having multiple copies of it in your project.
+
+The --legacy-peer-deps option tells the package manager (npm or Yarn) to use an older, more lenient approach when resolving and installing packages with peer dependency conflicts. It can be useful if you're working with older packages that haven't updated their peer dependency definitions to align with newer package manager behavior.
