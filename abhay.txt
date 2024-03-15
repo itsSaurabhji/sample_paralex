@@ -1,0 +1,24 @@
+ * [new branch]      arvind     -> origin/arvind
+Updating ef2c3d1..ebf82e0
+Fast-forward
+ arvind.txt | 7 +++++++
+ 1 file changed, 7 insertions(+)
+ create mode 100644 arvind.txt
+
+abhay verma@LAPTOP-BM92Q6N9 MINGW64 ~/OneDrive/Desktop/sample_paralex (master)
+$ git branch abhay
+
+abhay verma@LAPTOP-BM92Q6N9 MINGW64 ~/OneDrive/Desktop/sample_paralex (master)
+$ git checkout a
+abhay    arvind
+
+abhay verma@LAPTOP-BM92Q6N9 MINGW64 ~/OneDrive/Desktop/sample_paralex (master)
+$ git checkout a
+abhay    arvind
+
+abhay verma@LAPTOP-BM92Q6N9 MINGW64 ~/OneDrive/Desktop/sample_paralex (master)
+$ git checkout abhay
+Switched to branch 'abhay'
+
+abhay verma@LAPTOP-BM92Q6N9 MINGW64 ~/OneDrive/Desktop/sample_paralex (abhay)
+$
